@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #eaf4ff;
+    padding: 50px;
+}
+select, button {
+    padding:10px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+button {
+    cursor: pinter;
+}
+#tulos {
+    margin-top:20px;
+    font-size: 20px;
+    font-weight: bold;
+}
